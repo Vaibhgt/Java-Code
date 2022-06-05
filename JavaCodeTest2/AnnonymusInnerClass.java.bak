@@ -1,0 +1,13 @@
+Interface I1{}
+
+
+class Parent{
+	
+	
+}
+
+
+class AnnonymusInnerClassDemo{
+	
+}
+
