@@ -1,0 +1,19 @@
+//Program to print Array by taking user input
+import java.util.Scanner;
+class Array1
+{
+	public static void main(String args[])
+	{
+		int a1[]=new int[5];
+		Scanner sc=new Scanner(System.in);
+		for(int i=0; i<=4;i++)
+		{
+		a1[i]=new sc.nextInt();
+		}
+		for (int i=0; i<=4;i++)
+		{
+			System.out.println(a1[i]);
+		}
+	}
+}
+		

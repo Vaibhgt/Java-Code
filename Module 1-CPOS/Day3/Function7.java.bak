@@ -1,0 +1,17 @@
+class Function7
+{
+	static void display()
+	{
+		System.out.println("Userdefined method1....");
+	}
+	static void show()
+	{
+		System.out.println("Userdefined method2.....");
+	}
+	public static void main(String args[])
+	{
+	display();
+    }
+}
+
+	
